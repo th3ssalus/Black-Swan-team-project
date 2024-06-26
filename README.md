@@ -9,5 +9,3 @@ Commits labelled with "Final Submission" are the deliverables that were sent to 
 This project evaluated the use of a random forest and a logistic regression model, both built using Python and the Scikit learn library.
 When both were optimised it was found that our logistic regression model performed better than our random forest and therefore this model was submitted
 to the client.
-
-P.s. _I coded the logistic regression model_ (＾ω＾)
