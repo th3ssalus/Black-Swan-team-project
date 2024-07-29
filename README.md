@@ -1,6 +1,6 @@
 Summary: 
 -
-Conducted analysis using Python to surface insights on customer churn trends and metrics for a telecommunication company dataset containing 7000 customer records. Worked as a team for one week to clean and analyse data using pandas and built logistic regression model with scikit-learn to predict existing customers at risk of churn. Insights and recommendations geared towards sales and marketing teams focusing on long term contracts, discounted family subscription plans, and eliminating electronic check as a payment method.
+Conducted analysis using Python to surface insights on customer churn trends and metrics for a telecommunication company dataset containing 7000 customer records. Worked as a team for one week to clean and analyse data using pandas and built logistic regression model with scikit-learn to predict existing customers at risk of churn. Insights and recommendations geared towards sales and marketing teams focusing on incentivising long term contracts, discounted family subscription plans, and eliminating electronic check as a payment method.
 
 **Notes:**
 -
